@@ -1,7 +1,6 @@
-﻿using System;
-using System.Threading.Tasks;
-using MongoDB.Driver;
+﻿using MongoDB.Driver;
 using NS.Infrastructure.Mongo.Base.Model;
+using System.Threading.Tasks;
 
 namespace NS.Infrastructure.Mongo.Base.Repository
 {
